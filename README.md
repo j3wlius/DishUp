@@ -22,7 +22,7 @@ DishUp is your savior! It's a recipe finder website that helps you discover deli
 
 - Clone the Repository:
 
-` git clone https://github.com/your-username/dishup.git `
+``` git clone https://github.com/your-username/dishup.git ```
 
 - Navigate to Your Kitchen (Project Directory):
 
@@ -40,11 +40,11 @@ DishUp is your savior! It's a recipe finder website that helps you discover deli
 
 ## See DishUp in Action (Live Site):
 
-Get a sneak peek at DishUp's functionality here: [dishup.onrender.com](DishUp)
+Get a sneak peek at DishUp's functionality here: [DishUp](dishup.onrender.com)
 
 ## Built With Love (and Code):
-- [https://www.edamam.com/](Edamam)
-- [https://react.dev/](React)
+- [Edaman](https://www.edamam.com/)
+- [REACT](https://react.dev/)
 
 ### Feeling Generous? Contribute to the Feast!
 
